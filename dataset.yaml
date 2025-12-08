@@ -5,11 +5,10 @@ path: fruiteDetaction/dataset  # root folder containing all subsets
 
 # Dataset splits relative to 'path'
 train: Training
-val: Validation
-test: Test  # optional, can be used for evaluation
+val: Test
 
 # Number of classes and their names
-nc: 101  # total number of classes
+nc: 200  # total number of classes
 names: [
     "Apple Braeburn",
     "Apple Crimson Snow",
